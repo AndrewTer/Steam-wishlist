@@ -12,7 +12,7 @@
     <meta name="application-name" content="Steam wishlist">
     <meta name="theme-color" content="">
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css"></style>
+    <link rel="stylesheet" type="text/css" href="http://cdn.datatables.net/1.10.2/css/jquery.dataTables.min.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
   </head>
   <body class="h-100 m-0 d-flex flex-column align-items-center justify-content-center">
